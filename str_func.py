@@ -1,6 +1,5 @@
 def str_function(text):
     """Функция возврощает все строку с заглавными буквами"""
-    return text.upper()
 
 
 def str_function_2(text):
